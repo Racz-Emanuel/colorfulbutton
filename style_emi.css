@@ -18,3 +18,20 @@
     border-radius: 50px;
     font-weight: bold;
 }
+.btn-succes-pill{
+    background-color: green;
+    color:blue; 
+    padding: 15px;
+    border: none;
+    border-radius: 50px;
+    font-weight: bold;
+}
+.btn-succes{
+    background-color: blue;
+    color:green;
+    padding: 15px;
+    border: none;
+    border-radius: 125px;
+    border-width: 150px 6px 8px;
+    font-weight: bold;
+}
