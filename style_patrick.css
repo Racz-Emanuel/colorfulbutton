@@ -33,3 +33,20 @@ body{
       font-weight: bold;
    
 }
+ .btn-info-pill{
+   background-color: gainsboro;
+      color: hotpink;  
+      padding: 15px;
+      border: none;
+      border-radius: 999px;
+      font-weight: bold;
+ }
+ 
+ .btn-info{
+   background-color: yellow;
+      color: yellowgreen;  
+      padding: 15px;
+      border: none;
+      border-radius: 500px;
+      font-weight: bold;
+ }
