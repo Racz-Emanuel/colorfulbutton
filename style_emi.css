@@ -4,5 +4,6 @@
     padding: 15px;
     border: none;
     border-radius: 125px;
+    border-width: 150px 6px 8px;
     font-weight: bold;
 }
